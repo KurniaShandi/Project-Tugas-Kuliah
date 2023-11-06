@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">PraktikumPemrogramanBergerak</string>
+    <string name="namaEditText">Nama Mahasiswa</string>
+    <string name="buttonButton">Button</string>
+    <string name="buttonTextView">Hallo %1$s</string>
+    <string-array name="names">
+        <item>Malik</item>
+        <item>Kurnia</item>
+        <item>Shandi</item>
+    </string-array>
 </resources>
